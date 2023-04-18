@@ -1,0 +1,5 @@
+__pycache__/
+chatgpt/__pycache__/
+discordbot/__pycache__/
+
+.env
